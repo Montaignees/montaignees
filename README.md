@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Olá! sou o Lucas de montaigne
 
-<!--
-**Montaignees/montaignees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Apaixonado por tecnologia, programação e resolução de problemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+🌱 **Atualmente estou aprendendo:**  
+Lógica de programação, Java, estrutura de dados e fundamentos de desenvolvimento de software.
+
+👯 **Estou procurando colaborar em:**  
+Projetos iniciantes em Java, desenvolvimento back-end e projetos acadêmicos.
+
+🤔 **Estou procurando ajuda com:**  
+Boas práticas de programação, organização de código e arquitetura de projetos.
+
+📫 **Como me encontrar:**  
+- GitHub: https://github.com/Montaignees
+- LinkedIn: https://www.linkedin.com/in/lucas-montaigne-4769853aa/
+
+---
+
+✨ *Sempre aprendendo e evoluindo um commit de cada vez.*
