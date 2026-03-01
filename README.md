@@ -20,18 +20,6 @@ Boas práticas de programação, organização de código e arquitetura de proje
 - GitHub: https://github.com/Montaignees
 - LinkedIn: https://www.linkedin.com/in/lucas-montaigne-4769853aa/
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="60px" 
-    style="padding-right: 20px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/java/java-original-wordmark.svg" 
-/>
 
 <p align="left">
     </a> 
@@ -50,3 +38,16 @@ Boas práticas de programação, organização de código e arquitetura de proje
         />
     </a>
 </p>
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/java/java-original-wordmark.svg" 
+/>
+
