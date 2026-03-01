@@ -1,6 +1,7 @@
 ## 👋 Olá! sou o Lucas de montaigne
 
 🎓 Estudante de Engenharia de Software - SENAI Fatesg
+
 💻 Apaixonado por tecnologia, programação e resolução de problemas  
 
 ---
