@@ -38,7 +38,6 @@ Boas práticas de programação, organização de código e arquitetura de proje
         />
     </a>
 </p>
-/>
 
 ---
 
