@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 🌱 **Atualmente estou aprendendo:**  
 Lógica de programação, Java, estrutura de dados e fundamentos de desenvolvimento de software.
