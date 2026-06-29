@@ -1,24 +1,21 @@
-## 👋 Olá! sou o Lucas de montaigne
+# Sobre mim
 
-🎓 Estudante de Engenharia de Software - SENAI Fatesg (Primeiro período)                               
+Atualmente curso o **2º período de Engenharia de Software** e estou direcionando meus estudos para o desenvolvimento de software utilizando **Java** e **Programação Orientada a Objetos (POO)**. Busco consolidar uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento.
 
----
+Tenho interesse em atuar em projetos de desenvolvimento **back-end**, colaborando na construção de soluções organizadas, escaláveis e de qualidade. Procuro uma oportunidade de estágio onde possa aplicar meus conhecimentos, adquirir experiência prática e evoluir continuamente como desenvolvedor.
 
-### Sobre mim
+## Áreas de estudo
 
-🌱 **Atualmente estou aprendendo:**  
-Lógica de programação, Java, estrutura de dados e fundamentos de desenvolvimento de software.
+- Java
+- Programação Orientada a Objetos (POO)
+- Lógica de Programação
+- Estruturas de Dados
+- Clean Code
+- Git e GitHub
 
-👯 **Estou procurando colaborar em:**  
-Projetos iniciantes em Java, desenvolvimento back-end e projetos acadêmicos.
+## Objetivo
 
-🤔 **Estou procurando ajuda com:**  
-Boas práticas de programação, organização de código e arquitetura de projetos.
-
-📫 **Como me encontrar:**  
-- GitHub: https://github.com/Montaignees
-- LinkedIn: https://www.linkedin.com/in/lucas-montaigne-4769853aa/
-
+Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, enfrentar novos desafios e contribuir com equipes de desenvolvimento, mantendo o compromisso com aprendizado contínuo e crescimento profissional.
 
 <p align="left">
     </a> 
