@@ -2,7 +2,7 @@
 
 Atualmente curso o **2º período de Engenharia de Software** e estou direcionando meus estudos para o desenvolvimento de software utilizando **Java** e **Programação Orientada a Objetos (POO)**. Busco consolidar uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento.
 
-Tenho interesse em atuar em projetos de desenvolvimento **back-end**, colaborando na construção de soluções organizadas, escaláveis e de qualidade. Procuro uma oportunidade de estágio onde possa aplicar meus conhecimentos, adquirir experiência prática e evoluir continuamente como desenvolvedor.
+Tenho interesse em atuar em projetos de desenvolvimento **back-end**, colaborando na construção de soluções organizadas, e de qualidade. Procuro uma oportunidade de estágio onde possa aplicar meus conhecimentos, adquirir experiência prática e evoluir continuamente como desenvolvedor.
 
 ## Áreas de estudo
 
